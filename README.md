@@ -25,7 +25,7 @@ A static web site generator is an application that takes plain text files and co
 *   [BashlyBlog](https://github.com/beli3ver/bashlyblog) - A simple blog generator from the bash. - `#Bash`
 *   [Gitfolio](https://github.com/imfunniee/gitfolio) - A portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world. - `#Node.js`
 *   [Hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework. - `#JavaScript` `#Node.js`
-*   [Hyde](https://github.com/hyde/hyde) - `#Python`
+*   ~~[Hyde](https://github.com/hyde/hyde) - `#Python`~~
 *   [Jekyll](https://github.com/jekyll/jekyll) - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. - `#Ruby`
 *   [Journey](https://github.com/kabukky/journey) - `#Go`
 *   [Nikola](https://getnikola.com/) - `#Python`
@@ -72,7 +72,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Gridsome](https://gridsome.org) - Vue.js-powered, modern site generator for building the fastest possible websites for any Headless CMS, APIs or Markdown-files. - `#Vue.js` `#JavaScript`
 *   [Hakyll](https://github.com/jaspervdj/hakyll) - Hakyll is a Haskell library for generating static sites, mostly aimed at small-to-medium sites and personal blogs. It is written in a very configurable way and uses an xmonad-like DSL for configuration. - `#Haskell`
 *   [Harp](http://harpjs.com/) - `#JavaScript` `#Node.js`
-*   [Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`
+*   ~~[Hugo](https://github.com/spf13/hugo) - It is optimized for speed, easy use and configurability. - `#Go`~~
 *   [Ivy](https://mulholland.xyz/docs/ivy/) - It's small, elegant, and easy to use. - `#Python`
 *   [JBake](https://github.com/jbake-org/jbake) `#Java`
 *   [LambdaPad](https://github.com/gar1t/lambdapad) - `#Erlang`
@@ -103,7 +103,7 @@ A static web site generator is an application that takes plain text files and co
 
 *   [Expose](https://github.com/Jack000/Expose) - For photoessays. - `#Bash`
 *   [Prosopopee](https://github.com/Psycojoker/prosopopee/) A static website generator to make beautiful customizable pictures galleries that tell a story  - `#Python`
-*   [Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`
+*   ~~[Sigal](https://sigal.readthedocs.org/en/latest/) - `#Python`~~
 
 ### Single Page
 
