@@ -35,7 +35,7 @@ A static web site generator is an application that takes plain text files and co
 *   [Qgoda](http://www.qgoda.net/) - Arbitrary taxonomies and cross-links, multi-lingua. - `#Perl`
 *   [Spress](https://github.com/spress/Spress/) - `#PHP`
 *   [Static](https://github.com/nakkaya/static) - Supports org-mode and markdown. - `#Clojure`
-*   [Tinkerer](http://tinkerer.me/) - `#Python`
+*   ~~[Tinkerer](http://tinkerer.me/) - `#Python`
 
 ### CMS
 
